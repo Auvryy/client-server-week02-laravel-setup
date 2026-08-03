@@ -28,7 +28,7 @@
 | Composer Version | Composer (Latest) |
 | Git Version | Git (Latest) |
 | MySQL / Database Version | SQLite & MariaDB |
-| Code Editor | Neovim (LazyVim configuration) |
+| Code Editor | LazyVim |
 
 ---
 
