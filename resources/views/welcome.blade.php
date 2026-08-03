@@ -17,7 +17,7 @@
                 ITST 302 Portfolio
             </span>
             <h1 class="text-3xl font-extrabold mt-4 tracking-tight text-white">Student Profile</h1>
-            <p class="text-sm text-slate-400 mt-1">Laravel Project Homepage</p>
+            <p class="text-sm text-slate-300 mt-1">Laravel Project Homepage</p>
         </div>
 
         <!-- Student Details Card Grid -->
