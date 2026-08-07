@@ -72,6 +72,7 @@
 - **`public/`** — The server's public root containing `index.php`, asset entry points, and compiled files.
 - **`config/`** — Houses all configuration files for database connections, caching, mail services, and application options.
 - **`database/`** — Includes database migration files, model factories, and seeders for handling schema changes and mock data.
+- **`Sarne - Documentation`** - The documentation file that is free to read. this consists all the steps that have been made for this project.
 
 ---
 
